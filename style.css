@@ -1,0 +1,57 @@
+body {
+  background-color: #4DB6AC;
+  font-family: 'Kaushan Script', cursive;
+}
+#header {
+  background-color: #00897B;
+  margin: 0px;
+  padding: 15px;
+  font-size: 60px !important;
+}
+.spacer {
+  min-height: 25px;
+  background-color: #26A69A;
+}
+.main {
+  padding: 0px;
+}
+.presets {
+  font-size: 40px !important;
+  color: white;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.presets button:hover {
+  font-size: 40px !important;
+  color: white;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.presets button:active {
+  font-size: 40px !important;
+  color: white;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.presets button:focus {
+  font-size: 40px !important;
+  color: white;
+  border-color: transparent;
+  background-color: transparent;
+}
+.row {
+  margin: 0px;
+}
+#here {
+  margin-top: 20px;
+}
+.getPadded{
+  padding: 10px;
+  margin: 10px;
+}
+.progress{
+  margin-top: 10px;
+}
